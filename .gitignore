@@ -1,0 +1,61 @@
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Build output directories
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+x64/Debug/
+x64/Release/
+
+# Build artifacts
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.a
+*.pdb
+*.ipdb
+*.ilk
+*.idb
+*.exp
+*.pch
+*.sbr
+*.tlh
+*.tli
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Misc
+*.log
+*.tmp
+*.vspscc
+*.vssscc
+*.db
+*.bak
+*.backup
+*.swp
+*~
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE/editor folders
+.vscode/
+.idea/
